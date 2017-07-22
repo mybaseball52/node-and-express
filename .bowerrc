@@ -1,4 +1,3 @@
-//bower configuration
 { 
     "directory": "public/lib"
 }
